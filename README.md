@@ -11,7 +11,7 @@ Basics of Deep learning with projects for particular sections
 - Visualized key factors contributing to customer churn.
 
 ## 📂 Dataset
-- Source: [Kaggle Dataset (if applicable)](https://www.kaggle.com/)
+- Source: [Kaggle Dataset (if applicable)]((https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn))
 - Contains **customer demographics, transaction behavior, and account details**.
 - **Features include**:
   - **Credit Limit, Balance, Transactions, Active Months, Age, Income, etc.**
